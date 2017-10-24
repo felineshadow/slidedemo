@@ -5,9 +5,9 @@ class: center, middle
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 作者姓名 (xiongjie1999@pku.edu.com)
 
-主页: https://github.com/author
+主页: https://github.com/felineshadow
 
 ---
 
@@ -15,46 +15,65 @@ class: center, middle
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 姓名  生日  籍贯
+#### &nbsp; &nbsp; 1.2 学籍
+#### &nbsp; &nbsp; 1.3 联系方式
 
 ### 2. 第二部分
 
-### 3. 第三部分
 
 ---
 
 ## 第一部分
 
 ```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+1.1
+姓名：熊杰
+出生日期：1999.05.02
+籍贯：江西南昌（红色摇篮）
+1.2
+学籍：
+小学：江西农业大学附属小学（2005.9--2011.7）
+中学：江西师范大学附属中学（初中2011.9--2014.7）（高中2014.9--2017.7）
+大学：北京大学化学与分子工程学院
+1.3
+联系方式
+QQ：916146134  微信号：yhxj990052  联系电话：13367900510
 ```
 
 ---
 
-## 插图
+## 本讲内容
 
-** Ada Lovelace **
+### 1. 第一部分</font>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### <font color="orangered">2. 第二部分
+#### &nbsp; &nbsp; 2.1 兴趣爱好
+#### &nbsp; &nbsp; 2.2 参加组织部门
+#### &nbsp; &nbsp; 2.3 对自己的话
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 第二部分
 
+```c
+2.1
+兴趣爱好：书法，乒乓球，羽毛球，篮球
+2.2
+参加组织部门：
+北京大学化学与分子工程学院青年志愿者协会
+北京大学校团委青年志愿者协会
+2.3
+对自己的话：
+I‘m a cat in seek of my dream butterfly！
+```
+---
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+## 插图
 
-Display formula:
+** 座右铭 **
 
-$$e^{i\pi} + 1 = 0$$
-
+<img src="https://" https://b-ssl.duitang.com/uploads/item/201502/21/20150221192430_mTmsX.jpeg"margin: 0px 80px">
 ---
 
 class: center, middle
