@@ -67,11 +67,11 @@ class: center, middle
 
 ---
 
-## 插图
+## 寄语
 
 ** 座右铭  Always be my best ！**
-
 ** 生命的颜色**
+
 <img src=" https://baike.baidu.com/pic/生物科技/7526893/0/adaf2edda3cc7cd978827b503301213fb90e9188?fr=lemma&ct=single#aid=0&pic=0b46f21fbe096b63b9de86a206338744eaf8ac79" 
 ---
 
