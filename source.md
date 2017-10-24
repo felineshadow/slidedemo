@@ -1,11 +1,11 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (xiongjie1999@pku.edu.com)
+#### 熊杰 (xiongjie1999@pku.edu.com)
 
 主页: https://github.com/felineshadow
 
@@ -26,7 +26,7 @@ class: center, middle
 
 ## 第一部分
 
-```c
+
 1.1
 姓名：熊杰
 出生日期：1999.05.02
@@ -39,7 +39,7 @@ class: center, middle
 1.3
 联系方式
 QQ：916146134  微信号：yhxj990052  联系电话：13367900510
-```
+
 
 ---
 
@@ -56,7 +56,7 @@ QQ：916146134  微信号：yhxj990052  联系电话：13367900510
 
 ## 第二部分
 
-```c
+
 2.1
 兴趣爱好：书法，乒乓球，羽毛球，篮球
 2.2
@@ -66,14 +66,14 @@ QQ：916146134  微信号：yhxj990052  联系电话：13367900510
 2.3
 对自己的话：
 I‘m a cat in seek of my dream butterfly！
-```
+
 ---
 
 ## 插图
 
-** 座右铭 **
+** 座右铭  Always be my best **
 
-<img src="https://" https://b-ssl.duitang.com/uploads/item/201502/21/20150221192430_mTmsX.jpeg"margin: 0px 80px">
+<img src="https://" https://b-ssl.duitang.com/uploads/item/201502/21/20150221192430_mTmsX.jpeg"margin: 
 ---
 
 class: center, middle
