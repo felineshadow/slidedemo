@@ -27,7 +27,7 @@ class: center, middle
 ## 第一部分
 
 
-1.1
+“1.1
 姓名：熊杰
 出生日期：1999.05.02
 籍贯：江西南昌（红色摇篮）
@@ -38,7 +38,7 @@ class: center, middle
 大学：北京大学化学与分子工程学院
 1.3
 联系方式
-QQ：916146134  微信号：yhxj990052  联系电话：13367900510
+QQ：916146134  微信号：yhxj990052  联系电话：13367900510”
 
 
 ---
@@ -57,7 +57,7 @@ QQ：916146134  微信号：yhxj990052  联系电话：13367900510
 ## 第二部分
 
 
-2.1
+“2.1
 兴趣爱好：书法，乒乓球，羽毛球，篮球
 2.2
 参加组织部门：
@@ -65,7 +65,7 @@ QQ：916146134  微信号：yhxj990052  联系电话：13367900510
 北京大学校团委青年志愿者协会
 2.3
 对自己的话：
-I‘m a cat in seek of my dream butterfly！
+I‘m a cat in seek of my dream butterfly！”
 
 ---
 
@@ -73,7 +73,7 @@ I‘m a cat in seek of my dream butterfly！
 
 ** 座右铭  Always be my best **
 
-<img src="https://" https://b-ssl.duitang.com/uploads/item/201502/21/20150221192430_mTmsX.jpeg"margin: 
+<img src=" https://b-ssl.duitang.com/uploads/item/201502/21/20150221192430_mTmsX.jpeg" 
 ---
 
 class: center, middle
