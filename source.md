@@ -69,9 +69,10 @@ class: center, middle
 
 ## 插图
 
-** 座右铭  Always be my best ！**
+** 座右铭  Always be my best ！
+          和生命一样绚丽多彩**
 
-<img src=" https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=励志图片带字唯美&hs=2&pn=3&spn=0&di=151587715840&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=1448108743%2C2875030054&os=1699230040%2C4102266825&simid=3411369392%2C307653352&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=励志图片带字唯美&objurl=http%3A%2F%2Ft.388g.com%2Fuploads%2Fallimg%2F160704%2F3-160F4141T9.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fp_z%26e3Bnbb2_z%26e3Bv54AzdH3FprAzdH3F2xAzdH3Fc8l0_z%26e3Bip4s&gsm=0" 
+<img src=" https://baike.baidu.com/pic/生物科技/7526893/0/adaf2edda3cc7cd978827b503301213fb90e9188?fr=lemma&ct=single#aid=0&pic=0b46f21fbe096b63b9de86a206338744eaf8ac79" 
 ---
 
 class: center, middle
